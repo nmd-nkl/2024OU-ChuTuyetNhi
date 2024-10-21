@@ -87,7 +87,7 @@ Bộ nhớ trong C# chia thành 2 vùng `Stack` và `Heap`
 
 `Heap` : Lưu trữ các biến **kiểu tham chiếu** (reference types). Khi một đối tượng được tạo, nó nằm trên heap, và hệ thống sẽ quản lý bộ nhớ thông qua cơ chế **garbage collection**.
 
-## 7. Thứ tự ưu tiên của toán tử
+## Thứ tự ưu tiên của toán tử
 ```
 Số học (*, /, % ưu tiên cao hơn +, -) > Quan hệ > Logic > Gán
 ```
