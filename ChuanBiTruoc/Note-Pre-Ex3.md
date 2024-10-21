@@ -25,10 +25,8 @@ Cả `ref` và `out` đều được sử dụng để truyền tham số đến
    ```csharp
    void MethodRef(ref int x) { x += 10; }
    void MethodOut(out int y) { y = 20; }
-
    int a = 5;
    MethodRef(ref a); // a bây giờ là 15
-
    int b;
    MethodOut(out b); // b bây giờ là 20
    ```
