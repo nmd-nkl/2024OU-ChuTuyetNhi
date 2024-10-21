@@ -30,4 +30,4 @@
 
 **`git merge {tên branch}`** Tổng hợp lại branch
 
-**`git branch -d {tên branch}`** Xoá 1 branch
+**`git branch -d {tên branch}`** Xoá 1 branch 
