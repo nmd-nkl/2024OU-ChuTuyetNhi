@@ -7,7 +7,7 @@
 - [Event](#event)
 - [Lambda Expressions](#lambda-expressions)
 - [LINQ](#linq)
----
+--- 
 # Delegate
 - Tương tự như con trỏ hàm trong C hoặc C++
 - `Delegate` là một biến kiểu tham chiếu(references) chứa tham chiếu tới một phương thức
