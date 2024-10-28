@@ -8,7 +8,7 @@ using System.Collections;
 ### Khi nào nên dùng?
 - **Mảng** dành cho đối tượng **Strongly-typed** (kiểu dữ liệu không bị thay đổi 1 cách đột ngột, tường minh)
 - **Collections** cung cấp linh hoạt hơn, truy xuất nhanh chóng
---- 
+---
 **MỤC LỤC**
 1. [ArrayList](#arraylist)
 2. [HashTable](#hashtable)
