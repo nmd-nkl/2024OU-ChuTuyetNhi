@@ -239,4 +239,4 @@ Console.WriteLine($"Value for key 'Banana': {dictionary["Banana"]}");
 | Truy xuất phần tử không tồn tại                      | Truy xuất phần tử không tồn tại trong `Dictionary` sẽ báo lỗi. |
 | Hiệu quả cho dữ liệu lớn                              | Không hiệu quả cho dữ liệu lớn                            |
 | Các phần tử được sắp xếp lại mỗi khi thêm hoặc xóa    | Các phần tử nằm theo thứ tự được thêm vào.                |
-| Tìm kiếm nhanh hơn                             | Tìm kiếm chậm hơn.                                        |
+| Tìm kiếm nhanh hơn                             | Tìm kiếm chậm hơn.                                       |
