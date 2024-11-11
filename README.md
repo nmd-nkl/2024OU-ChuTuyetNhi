@@ -1,7 +1,6 @@
 ## [GCC 2024] OOP-Unity [BUỔI 4]
 
-```
-Là một hiệu sách có tiếng trong vùng, Cường - chủ hiệu sách được biết đến là một người rất am hiểu sách, anh có thể nhớ hết sách trong cửa hàng thuộc loại gì ở kệ nào, để khi khách hỏi thì anh có thể phản hồi tức thì. Tuy nhiên do lượng khách ngày càng tăng cao, anh đã quyết định cải tiến quy trình của mình để khách hàng có thể sử dụng phần mềm giúp tìm kiếm sách nhanh hơn, và anh cũng nhẹ việc hơn nữa! Easy money with technology 😉
+#### Là một hiệu sách có tiếng trong vùng, Cường - chủ hiệu sách được biết đến là một người rất am hiểu sách, anh có thể nhớ hết sách trong cửa hàng thuộc loại gì ở kệ nào, để khi khách hỏi thì anh có thể phản hồi tức thì. Tuy nhiên do lượng khách ngày càng tăng cao, anh đã quyết định cải tiến quy trình của mình để khách hàng có thể sử dụng phần mềm giúp tìm kiếm sách nhanh hơn, và anh cũng nhẹ việc hơn nữa! Easy money with technology 😉
 ---
 Yêu cầu của Cường
 Là một chủ hiệu sách, tôi muốn có một chương trình cho phép người dùng xem toàn bộ danh sách của thư viện. Danh sách này phải bao gồm tiêu đề, tác giả, thể loại và ngày xuất bản của cuốn sách.
@@ -16,4 +15,3 @@ Nếu đăng nhập như admin, thì TÔI - CHỦ HIỆU nên có các chức n�
 Nếu đăng nhập như khách, thì người dùng nên có các chức năng sau:
 - Tìm kiếm sách (Tìm kiếm nhập từ bất kì, có thể là tiêu đề, tác giả, thể loại, ngày xuất bản, ...) và trả ra các kết quả tương đồng nhất.
 - Xem danh sách sách
-```     
