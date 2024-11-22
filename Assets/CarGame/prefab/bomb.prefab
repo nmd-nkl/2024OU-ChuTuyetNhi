@@ -16,8 +16,8 @@ GameObject:
   - component: {fileID: 3676474140849136607}
   - component: {fileID: 1149485294347939394}
   m_Layer: 6
-  m_Name: Item
-  m_TagString: coin
+  m_Name: bomb
+  m_TagString: bomb
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -78,7 +78,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: 21300000, guid: 875d2f1f9be577547a0ec5b310ce86c4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a32bf954d5160364190f63059187ad3c, type: 3}
   m_Color: {r: 0.8396226, g: 0.8275913, b: 0.5029815, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -101,7 +101,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 543feb148dcb6764394c01ae40279444, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemSpeed: 5
 --- !u!114 &2585880141505703098
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -137,7 +136,7 @@ Rigidbody2D:
   m_ExcludeLayers:
     serializedVersion: 2
     m_Bits: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
@@ -153,8 +152,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8adc40fc4cf83e54ebc27b68656ba1a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damage: 0
-  point: 100
+  damage: 1
+  point: 0
 --- !u!58 &1149485294347939394
 CircleCollider2D:
   m_ObjectHideFlags: 0
